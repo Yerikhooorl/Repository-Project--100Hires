@@ -14,7 +14,7 @@ Stage 1 portfolio project for 100Hires application
 4. Created a public Github repository to store and manage this project documentation.
 5. Structured this README.md file directly to document the setup journey.
 
-## Issues Encountered and Solutions
+## Issues Encountered And Solutions
 * **Issue:** Git was not installed on the local machine, preventing the repository from cloning directly via Cursor.
 * **Solution:** Pivoted to using GitHub secure web interface to create, edit, and commit the documentation directly, ensuring the project was completed within the deadline.
 * **Issue:** Cursor opened in the new AI agent home interface by default, whic hid the traditional extensions marketplace and caused initial confusion.
